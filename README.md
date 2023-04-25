@@ -27,11 +27,14 @@
 - [IIT Madras] Python with DSA
 - [TakeUforward] Dynamic Programming
 - [AdityaVerma] Dynamic Programming
+## Object Oriented Programming
+- [C++ OOPS]
 
 
 
 
 
+[C++ OOPS]: <https://www.youtube.com/watch?v=m1fJjNLzRag>
 [IIT Madras]: <https://www.youtube.com/watch?v=G-XixYjFNnA&list=PLZ2ps__7DhBaDccbZRgiU1sHX2gZrQ-XT>
 [AdityaVerma]: <https://www.youtube.com/@TheAdityaVerma/playlists>
 [TakeUforward]: <https://www.youtube.com/watch?v=tyB0ztf0DNY&list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY>
