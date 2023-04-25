@@ -9,3 +9,11 @@
 - Data Analyst
 - System Engineer/Project Engineer
 - Dev Ops
+## Types of Companies
+- Product based (Amazon)
+- Service based (TCS/Wipro/Infosys)
+- Startups (Zomato/Flipkart)
+## Must Have
+- Project according to the roles you are Applying
+- Some courses related to that role
+#
