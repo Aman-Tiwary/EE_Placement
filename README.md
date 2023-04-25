@@ -37,12 +37,15 @@
 ## Machine Learning
 - [ML]
 - [Data Science]
+## Miscellaneous
+- [Neso] C/C++/Java programming
+- [Kaggle] ML enthusiasts
 
 
 
 
-
-
+[Kaggle]: <https://www.kaggle.com/>
+[Neso]: <https://www.youtube.com/@nesoacademy/playlists>
 [Data Science]: <https://www.youtube.com/watch?v=-ETQ97mXXF0>
 [ML]: <https://www.youtube.com/watch?v=9f-GarcDY58>
 [SQL]: <https://www.youtube.com/watch?v=LGTbdjoEBVM>
