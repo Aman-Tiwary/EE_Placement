@@ -29,11 +29,13 @@
 - [AdityaVerma] Dynamic Programming
 ## Object Oriented Programming
 - [C++ OOPS]
+- [JAVA OOPS]
 
 
 
 
 
+[JAVA OOPS]: <https://www.youtube.com/watch?v=7WhnYwoBY24&list=PLlhM4lkb2sEhf5NlWeYh_gdcN49pHjVP0>
 [C++ OOPS]: <https://www.youtube.com/watch?v=m1fJjNLzRag>
 [IIT Madras]: <https://www.youtube.com/watch?v=G-XixYjFNnA&list=PLZ2ps__7DhBaDccbZRgiU1sHX2gZrQ-XT>
 [AdityaVerma]: <https://www.youtube.com/@TheAdityaVerma/playlists>
