@@ -21,12 +21,14 @@
 ## Aptitude
 - [IndiaBix]
 - [GFG_Aptitude]
+## Data Structures and Algorithms
+- [ApnaCollege]
 
 
 
 
 
 
-
+[ApnaCollege]: <https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ>
 [IndiaBix]: <https://www.indiabix.com/aptitude/questions-and-answers/>
 [GFG_Aptitude]: <https://www.geeksforgeeks.org/aptitude-questions-and-answers/>
