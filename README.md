@@ -30,11 +30,13 @@
 ## Object Oriented Programming
 - [C++ OOPS]
 - [JAVA OOPS]
+- [Python OOPS]
 
 
 
 
 
+[Python OOPS]: <https://www.youtube.com/watch?v=mrhccLHtyN4&list=PLeo1K3hjS3utXiAr1FqrssqNU1Q0ai84x>
 [JAVA OOPS]: <https://www.youtube.com/watch?v=7WhnYwoBY24&list=PLlhM4lkb2sEhf5NlWeYh_gdcN49pHjVP0>
 [C++ OOPS]: <https://www.youtube.com/watch?v=m1fJjNLzRag>
 [IIT Madras]: <https://www.youtube.com/watch?v=G-XixYjFNnA&list=PLZ2ps__7DhBaDccbZRgiU1sHX2gZrQ-XT>
