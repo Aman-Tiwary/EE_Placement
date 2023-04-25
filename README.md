@@ -35,12 +35,16 @@
 - [DBMS]
 - [SQL]
 ## Machine Learning
+- [ML]
+- [Data Science]
 
 
 
 
 
 
+[Data Science]: <https://www.youtube.com/watch?v=-ETQ97mXXF0>
+[ML]: <https://www.youtube.com/watch?v=9f-GarcDY58>
 [SQL]: <https://www.youtube.com/watch?v=LGTbdjoEBVM>
 [DBMS]: <https://www.youtube.com/watch?v=6Iu45VZGQDk&list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ>
 [Python OOPS]: <https://www.youtube.com/watch?v=mrhccLHtyN4&list=PLeo1K3hjS3utXiAr1FqrssqNU1Q0ai84x>
