@@ -18,3 +18,13 @@
 - Project according to the roles you are Applying
 - Some courses related to that role
 # Resources
+## Aptitude
+- [IndiaBix]
+
+
+
+
+
+
+
+[IndiaBix]: <[https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md](https://www.indiabix.com/aptitude/questions-and-answers/)>
