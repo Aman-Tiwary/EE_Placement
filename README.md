@@ -1,4 +1,4 @@
-# Campus Placement - Software
+# Campus Placement - Software (Free Resources)
 ## Process
 - Round 1: MCQs(Aptitude+DSA+OOPS+Database) or Codility Test (DSA)
 - Round 2: Technical Round Based on Role (can be multiple technical rounds)
@@ -46,6 +46,7 @@
 - [Kaggle] ML enthusiasts
 - [Web Dev] web development
 - [Dev Ops] developer operations
+
 
 
 
