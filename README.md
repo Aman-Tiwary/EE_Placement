@@ -40,10 +40,15 @@
 ## Miscellaneous
 - [Neso] C/C++/Java programming
 - [Kaggle] ML enthusiasts
+- [Web Dev] web development
+- [Dev Ops] developer operations
 
 
 
 
+
+[Dev Ops]: <https://www.youtube.com/watch?v=ZbG0c87wcM8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak>
+[Web Dev]: <https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n>
 [Kaggle]: <https://www.kaggle.com/>
 [Neso]: <https://www.youtube.com/@nesoacademy/playlists>
 [Data Science]: <https://www.youtube.com/watch?v=-ETQ97mXXF0>
