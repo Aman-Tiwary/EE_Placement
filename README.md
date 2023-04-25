@@ -2,7 +2,8 @@
 ## Process
 - Round 1: MCQs(Aptitude+DSA+OOPS+Database) or Codility Test (DSA)
 - Round 2: Technical Round Based on Role (can be multiple technical rounds)
-- Round 3: Mangerial + HR 
+- Round 3: Managerial + HR 
+- Can be more or less rounds. Totally depends on the hirirng company.
 ## Roles
 - SDE
 - Data Scientist/Machine Learning
@@ -16,4 +17,4 @@
 ## Must Have
 - Project according to the roles you are Applying
 - Some courses related to that role
-#
+# Resources
