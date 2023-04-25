@@ -20,6 +20,7 @@
 # Resources
 ## Aptitude
 - [IndiaBix]
+- [GFG_Aptitude]
 
 
 
@@ -28,3 +29,4 @@
 
 
 [IndiaBix]: <https://www.indiabix.com/aptitude/questions-and-answers/>
+[GFG_Aptitude]: <https://www.geeksforgeeks.org/aptitude-questions-and-answers/>
