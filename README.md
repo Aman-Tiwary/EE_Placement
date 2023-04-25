@@ -24,12 +24,15 @@
 ## Data Structures and Algorithms
 - [ApnaCollege] C++ with DSA
 - [KunalKushwaha] JAVA with DSA
+- [IIT Madras] Python with DSA
 - [TakeUforward] Dynamic Programming
 - [AdityaVerma] Dynamic Programming
 
 
 
 
+
+[IIT Madras]: <https://www.youtube.com/watch?v=G-XixYjFNnA&list=PLZ2ps__7DhBaDccbZRgiU1sHX2gZrQ-XT>
 [AdityaVerma]: <https://www.youtube.com/@TheAdityaVerma/playlists>
 [TakeUforward]: <https://www.youtube.com/watch?v=tyB0ztf0DNY&list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY>
 [KunalKushwaha]: <https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ>
