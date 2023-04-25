@@ -38,7 +38,7 @@
 - [ML]
 - [Data Science]
 ## Practice Platforms
-- GeeksForGeeks (company tags are present on this website so you can prepare according to the componies)
+- GeeksForGeeks (company tags are present on this website so you can prepare according to the companies and also read interview experiences )
 - Hackerrank (use it for language specific practice)
 - Leetcode (use it for dicussion sections where most optimised codes are provided)
 ## Miscellaneous
