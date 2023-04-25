@@ -25,11 +25,12 @@
 - [ApnaCollege] C++ with DSA
 - [KunalKushwaha] JAVA with DSA
 - [TakeUforward] Dynamic Programming
+- [AdityaVerma] Dynamic Programming
 
 
 
 
-
+[AdityaVerma]: <https://www.youtube.com/@TheAdityaVerma/playlists>
 [TakeUforward]: <https://www.youtube.com/watch?v=tyB0ztf0DNY&list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY>
 [KunalKushwaha]: <https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ>
 [ApnaCollege]: <https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ>
