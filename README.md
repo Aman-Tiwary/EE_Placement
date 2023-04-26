@@ -23,6 +23,7 @@
 - [GFG_Aptitude]
 ## Data Structures and Algorithms
 - [ApnaCollege] C++ with DSA
+- [Abdul Bari] DSA (C/C++)
 - [KunalKushwaha] JAVA with DSA
 - [IIT Madras] Python with DSA
 - [TakeUforward] Dynamic Programming
@@ -57,7 +58,7 @@
 
 
 
-
+[Abdul Bari]: <https://www.youtube.com/@abdul_bari/playlists>
 [Dev Ops]: <https://www.youtube.com/watch?v=ZbG0c87wcM8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak>
 [Web Dev]: <https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n>
 [Kaggle]: <https://www.kaggle.com/>
