@@ -48,6 +48,9 @@
 - [Dev Ops] developer operations
 ## Some Tips
 - There are number of lectures you can find on youtube, whichever you find useful you can follow. Above resources are just for references.
+- Go through InterviewBit questions for interview for revision.
+- Start participating in contest happening on any platform from day 1. Its okay even if you are not able to solve it. Learn the algorithm.
+- You can follow any youtubers DSA sheet for practice.
 
 
 
