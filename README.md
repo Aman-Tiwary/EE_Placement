@@ -46,6 +46,8 @@
 - [Kaggle] ML enthusiasts
 - [Web Dev] web development
 - [Dev Ops] developer operations
+## Some Tips
+- There are number of lectures you can find on youtube, whichever you find useful you can follow. Above resources are just for references.
 
 
 
