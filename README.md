@@ -47,7 +47,7 @@
 - [Kaggle] ML enthusiasts
 - [Web Dev] web development
 - [Dev Ops] developer operations
-- [CS 50] Very good lectures regarding c,python,algorithms,data structures.
+- [CS 50] Very good lectures regarding c,python,algorithms,data structures by Harvard University.
 
 ## Some Tips
 - There are number of lectures you can find on youtube, whichever you find useful you can follow. Above resources are just for references.
