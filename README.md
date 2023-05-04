@@ -47,6 +47,8 @@
 - [Kaggle] ML enthusiasts
 - [Web Dev] web development
 - [Dev Ops] developer operations
+- [CS 50] Very good lectures regarding c,python,algorithms,data structures.
+
 ## Some Tips
 - There are number of lectures you can find on youtube, whichever you find useful you can follow. Above resources are just for references.
 - Go through InterviewBit questions for interview for revision.
@@ -57,7 +59,7 @@
 
 
 
-
+[CS50]:<https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4>
 [Abdul Bari]: <https://www.youtube.com/@abdul_bari/playlists>
 [Dev Ops]: <https://www.youtube.com/watch?v=ZbG0c87wcM8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak>
 [Web Dev]: <https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n>
