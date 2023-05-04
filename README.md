@@ -58,8 +58,8 @@
 
 
 
-
-[CS50]: <https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4>
+ 
+[CS 50]: <https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4>
 [Abdul Bari]: <https://www.youtube.com/@abdul_bari/playlists>
 [Dev Ops]: <https://www.youtube.com/watch?v=ZbG0c87wcM8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak>
 [Web Dev]: <https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n>
